@@ -1,0 +1,9 @@
+# Project exclude paths
+/.gradle/
+/Problems/Case insensitive/out/
+/Problems/Case insensitive/out/production/classes/
+/Problems/Number dividers/out/
+/Problems/Number dividers/out/production/classes/
+/Tic-Tac-Toe/task/build/
+/Tic-Tac-Toe/task/out/
+/Tic-Tac-Toe/task/out/production/classes/
